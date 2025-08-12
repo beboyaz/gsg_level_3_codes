@@ -25,4 +25,4 @@ ex : n=3 ---> 3*(2^(3-1))=12
      n=2 ---> 3*(2^(2-1))=6
 -------------------------
 name : Baraa Ayman Hasan Alyazouri 
-id : 20215028
+id : baraa.ayman.ps@gmail.com
